@@ -9,6 +9,8 @@ github - https://github.com/jsaem
 1. Unity 2D
 슈팅디펜스게임
 Source: https://github.com/jsaem/ShootDefense.git
+Fruit Hater
+Source: https://github.com/jsaem/FruitHater.git
 3. Unity 3D
 4. Win API
 오목 게임
