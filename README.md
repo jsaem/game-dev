@@ -5,7 +5,7 @@
 ##### Notion - https://saemijung.notion.site/a272513c14d845ea975e4d9987a38cb6
 
 # 목차
-1. Unity 2D
+##### 1. Unity 2D
 + 슈팅디펜스게임
   + Source: https://github.com/jsaem/ShootDefense.git
 
@@ -15,7 +15,7 @@
 + 집사, 나를 구해라 냥!
   + Source: https://github.com/jsaem/CatEscape.git
 
-2. Unity 3D
+##### 2. Unity 3D
 + Fruit Hater
   + Source: https://github.com/jsaem/FruitHater.git
 
@@ -25,7 +25,7 @@
 + Shoot In Unvierse
   + Source: https://github.com/jsaem/Shoot-In-Universe.git
 
-3. Win API
+##### 3. Win API
 + 오목 게임
   + Source: https://github.com/jsaem/OhMock.git
 
