@@ -1,7 +1,8 @@
 # 정새미의 Game Dev Portfolio
-##### 1997.10.21
-+ Email - jsaemi97@naver.com
-+ Github - https://github.com/jsaem
+
+##### Email - jsaemi97@naver.com or jsaemi22@gmail.com
+##### Github - https://github.com/jsaem
+##### Notion - https://saemijung.notion.site/a272513c14d845ea975e4d9987a38cb6
 
 # 목차
 1. Unity 2D
@@ -17,6 +18,9 @@
 2. Unity 3D
 + Fruit Hater
   + Source: https://github.com/jsaem/FruitHater.git
+
++ 사과를 잡아라
+  + 
 
 3. Win API
 + 오목 게임
